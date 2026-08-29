@@ -1,2 +1,6 @@
 # PF-Lab02
-lab Task For Programming Fundamental Instructed By Aais Rabani
+Name: Abdul Hadi
+Roll No: 26P-0024
+Section: BS(AI)-1A
+Instructor: Aais Rabani
+
